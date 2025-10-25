@@ -1,6 +1,5 @@
 # Hi there, I'm Felix Tetteh! 👋
 
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
